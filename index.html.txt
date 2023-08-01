@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+meta name ="viewport" content="width=device-width,intial-scale=1.0">
+<title> Amazon</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<div class="navbar">
+    <div class="nav-logo border">
+       <div class="logo"> </div>
+   </div>
+     <div class="nav-address border ">
+  <p class="first">  Deliver to</p>
+            <div class="add-icon">
+                  <i class="  fa-solid fa-location-dot"></i>
+<p class="second">  India</p>
+</div>
+</div>
+                        <div class="nav-search">
+                                <select class="search">
+                                    <option>all</option>
+                   </select>
+     <input placeholder="search Amazone"class= "search-in">
+              <div class= search-icon">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+</div>
+</div>
+          <div class="nav-sign border">
+                        <p><span>Hello,sign in</span></p>
+                                    <p class="b_sec"> Account& List</p>
+</div>
+
+          <div class="nav-return border">
+                        <p><span>Returns </span></p>
+                                    <p class="b_sec"> &Return </p>
+</div>
+<div class="nav-cart border">
+<i class="fa-regular fa-cart-shopping"></i>
+Cart </div>
+</div>
+
+
+<div class="panel">
+<div class="all">
+<i class="fa-light fa-bars"></i>
+All
+</div>
+<div class="option">
+<p> Today's Deal</p>
+<p> customer service</p>
+<p>Registry</p>
+<p>Gift Card</p>
+<p> Sell </p>
+</div>
+<div class=" deals">
+Shop deals in Electronics</div>
+</div>
+</header>
+<div class="hero">
+<div class="mesg">
+<p> You are on amazon.com. You can also shop on Amazon India for millions of product with fast local delivery.<a> click here to go to amazon.in </a></p> 
+</div>
+<div class="shop">
+         <div class="content">
+  <div id=" box">
+<h2> health and personal care</h2>
+       <div class="img" style="background-image:url('box1.jpg')>
+<p>see more</p>
+</div>
+     </div> 
+</div>
+<div id=" box"><h3>electronics</h3>
+<div class="img"style="background-image:url('box3.jpg')>
+<p> see more</p
+</div></div>
+<div id=" box"><h4> toys </h4>
+<div class="img"style="background-image:url('box4.jpg')>
+<p>see more</p>
+</div></div>
+<div id="box"><h5> makeup</h5>
+<div class="img"style="background-image:url('box2.jpg')>
+<p>see more</p>
+</div></div>
+</div>
+</div>
+<div class="shop">
+         <div class="content">
+  <div id=" box">
+<h2> health and personal care</h2>
+       <div class="img" style="background-image:url('box1.jpg')>
+<p>see more</p>
+</div>
+     </div> 
+</div>
+<div id="box"><h3>electronics</h3>
+<div class="img"style="background-image:url('box3.jpg')>
+<p> see more</p
+</div></div>
+<div id="box"><h4> toys </h4>
+<div class="img"style="background-image:url('box4.jpg')>
+<p>see more</p>
+</div></div>
+<div id=" box"><h5> makeup</h5>
+<div class="img"style="background-image:url('box2.jpg')>
+<p>see more</p>
+</div></div>
+</div>
+</div>
+
+<footer>
+<div class="foot"> back to top
+</div>
+<div class="foot2">
+
+<ul> <p>get to knows</p>
+<a>careers<a/>
+<a>blogs</a>
+<a>about</a>
+<a> investor relation </a>
+</ul>
+
+<ul> <p>get to knows</p>
+<a>careers<a/>
+<a>blogs</a>
+<a>about</a>
+<a> investor relation </a>
+</ul>
+
+<ul> <p>get to knows</p>
+<a>careers<a/>
+<a>blogs</a>
+<a>about</a>
+<a> investor relation </a>
+</ul>
+
+<ul> <p>get to knows</p>
+<a>careers<a/>
+<a>blogs</a>
+<a>about</a>
+<a> investor relation </a>
+</ul>
+</div>
+
+</footer>
+</body>
+</html>
